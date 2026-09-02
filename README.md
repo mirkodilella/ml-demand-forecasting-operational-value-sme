@@ -1,4 +1,4 @@
-# SME ML Demand Forecasting Pipeline
+# SME ML Demand Forecasting to Operational Decisions Standardized Pipeline
 
 This repository contains a standardized forecasting-to-operational-decision pipeline designed to support the pre-adoption evaluation of machine-learning demand forecasting for small and medium-sized enterprises (SMEs).
 
