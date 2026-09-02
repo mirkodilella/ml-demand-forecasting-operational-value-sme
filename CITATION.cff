@@ -7,4 +7,5 @@ authors:
     given-names: "Leo Mirko"
 version: 1.0.0
 license: MIT
-repository-code: "YOUR_GITHUB_REPOSITORY_URL"
+repository-code: "https://github.com/mirkodilella/ml-demand-forecasting-operational-value-sme/releases/tag/v1.0.0"
+doi: 10.5281/zenodo.22258966
