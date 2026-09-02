@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "SME ML Demand Forecasting Pipeline"
+type: software
+authors:
+  - family-names: "Di Lella"
+    given-names: "Leo Mirko"
+version: 1.0.0
+license: MIT
+repository-code: "YOUR_GITHUB_REPOSITORY_URL"
